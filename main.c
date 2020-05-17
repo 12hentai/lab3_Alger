@@ -12,6 +12,7 @@ int main()
 	setlocale(LC_ALL, "ua");
 	int abs,tps;
 	
+
 	
 
 	printf("Введiть номер завдання: (1-4)");
